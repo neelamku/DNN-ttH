@@ -27,10 +27,7 @@
 
 using namespace std;
 
-//jet_comb("/squark1/kumari/user.aknue.346344.PhPy8EG.DAOD_TOPQ1.e7148_s3126_r9364_p4174._TTHnoBoosted_PFlow_V1_out_root/user.aknue.23656767._000003.out.root","out_jetComb.root")
-
-//jet_comb("/squark1/kumari/NNstudies/output_tth_ade.root","out_jetComb.root")
-//jet_comb("/squark1/kumari/user.aknue.346344.PhPy8EG.DAOD_TOPQ1.e7148_s3126_r9364_p4174._TTHnoBoosted_PFlow_V1_out_root/tth_mc16a.root","out_jetComb.root")
+//jet_comb("/squark1/kumari/new_sample/user.aknue.346344.PhPy8EG.DAOD_TOPQ1.e7148_s3126_r9364_p4346._TTH_PFlow_212171_V1_out_root/user.aknue.25595592._00000*.out.root","out_jetComb.root")
 
 enum JetTruthMatchDefinition{JetMatchLeadingBHiggs=0,
 			     JetMatchSubLeadingBHiggs=1,
